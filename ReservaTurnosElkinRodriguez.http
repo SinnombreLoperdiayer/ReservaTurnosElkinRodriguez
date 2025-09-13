@@ -1,0 +1,6 @@
+@ReservaTurnosElkinRodriguez_HostAddress = http://localhost:5121
+
+GET {{ReservaTurnosElkinRodriguez_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
